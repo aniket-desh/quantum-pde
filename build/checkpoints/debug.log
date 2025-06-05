@@ -1,0 +1,44 @@
+# Debug log for time evolution
+# Format: [step] [tensor_name] [indices]
+
+[init] exp_op_0 indices: site_0 site_0 
+[0] Before contraction: psi_0 indices: site_0 site_0 
+[0] After contraction: psi_0_1 indices: site_0 site_0 
+[0] Before backward contraction: psi_0_1 indices: site_0 site_0 
+[0] After backward contraction: psi_1 indices: site_0 site_0 
+[1] Before contraction: psi_1 indices: site_0 site_0 
+[1] After contraction: psi_1_1 indices: site_0 site_0 
+[1] Before backward contraction: psi_1_1 indices: site_0 site_0 
+[1] After backward contraction: psi_2 indices: site_0 site_0 
+[2] Before contraction: psi_2 indices: site_0 site_0 
+[2] After contraction: psi_2_1 indices: site_0 site_0 
+[2] Before backward contraction: psi_2_1 indices: site_0 site_0 
+[2] After backward contraction: psi_3 indices: site_0 site_0 
+[3] Before contraction: psi_3 indices: site_0 site_0 
+[3] After contraction: psi_3_1 indices: site_0 site_0 
+[3] Before backward contraction: psi_3_1 indices: site_0 site_0 
+[3] After backward contraction: psi_4 indices: site_0 site_0 
+[4] Before contraction: psi_4 indices: site_0 site_0 
+[4] After contraction: psi_4_1 indices: site_0 site_0 
+[4] Before backward contraction: psi_4_1 indices: site_0 site_0 
+[4] After backward contraction: psi_5 indices: site_0 site_0 
+[5] Before contraction: psi_5 indices: site_0 site_0 
+[5] After contraction: psi_5_1 indices: site_0 site_0 
+[5] Before backward contraction: psi_5_1 indices: site_0 site_0 
+[5] After backward contraction: psi_6 indices: site_0 site_0 
+[6] Before contraction: psi_6 indices: site_0 site_0 
+[6] After contraction: psi_6_1 indices: site_0 site_0 
+[6] Before backward contraction: psi_6_1 indices: site_0 site_0 
+[6] After backward contraction: psi_7 indices: site_0 site_0 
+[7] Before contraction: psi_7 indices: site_0 site_0 
+[7] After contraction: psi_7_1 indices: site_0 site_0 
+[7] Before backward contraction: psi_7_1 indices: site_0 site_0 
+[7] After backward contraction: psi_8 indices: site_0 site_0 
+[8] Before contraction: psi_8 indices: site_0 site_0 
+[8] After contraction: psi_8_1 indices: site_0 site_0 
+[8] Before backward contraction: psi_8_1 indices: site_0 site_0 
+[8] After backward contraction: psi_9 indices: site_0 site_0 
+[9] Before contraction: psi_9 indices: site_0 site_0 
+[9] After contraction: psi_9_1 indices: site_0 site_0 
+[9] Before backward contraction: psi_9_1 indices: site_0 site_0 
+[9] After backward contraction: psi_10 indices: site_0 site_0 

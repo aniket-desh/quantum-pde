@@ -1,0 +1,221 @@
+{
+  "time_evolution": {
+    "parameters": {
+      "time_step": 1,
+      "num_steps": 10,
+      "dt": 0.1
+    },
+    "steps": [
+      {
+        "step": 0,
+        "time": 0,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.997502,
+            "state_norm": 0.99875
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.99251,
+            "state_norm": 0.997502
+          }
+        ],
+        "total_energy": 1.99251,
+        "state_norm": 0.997502,
+        "state_file": "state_1.txt"
+      },
+      {
+        "step": 1,
+        "time": 0.1,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.992525,
+            "state_norm": 0.996255
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.98257,
+            "state_norm": 0.99501
+          }
+        ],
+        "total_energy": 1.98257,
+        "state_norm": 0.99501,
+        "state_file": "state_2.txt"
+      },
+      {
+        "step": 2,
+        "time": 0.2,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.987573,
+            "state_norm": 0.993767
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.97268,
+            "state_norm": 0.992525
+          }
+        ],
+        "total_energy": 1.97268,
+        "state_norm": 0.992525,
+        "state_file": "state_3.txt"
+      },
+      {
+        "step": 3,
+        "time": 0.3,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.982645,
+            "state_norm": 0.991285
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.96284,
+            "state_norm": 0.990046
+          }
+        ],
+        "total_energy": 1.96284,
+        "state_norm": 0.990046,
+        "state_file": "state_4.txt"
+      },
+      {
+        "step": 4,
+        "time": 0.4,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.977742,
+            "state_norm": 0.988808
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.95304,
+            "state_norm": 0.987573
+          }
+        ],
+        "total_energy": 1.95304,
+        "state_norm": 0.987573,
+        "state_file": "state_5.txt"
+      },
+      {
+        "step": 5,
+        "time": 0.5,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.972864,
+            "state_norm": 0.986338
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.9433,
+            "state_norm": 0.985106
+          }
+        ],
+        "total_energy": 1.9433,
+        "state_norm": 0.985106,
+        "state_file": "state_6.txt"
+      },
+      {
+        "step": 6,
+        "time": 0.6,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.968009,
+            "state_norm": 0.983875
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.9336,
+            "state_norm": 0.982645
+          }
+        ],
+        "total_energy": 1.9336,
+        "state_norm": 0.982645,
+        "state_file": "state_7.txt"
+      },
+      {
+        "step": 7,
+        "time": 0.7,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.963179,
+            "state_norm": 0.981417
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.92395,
+            "state_norm": 0.98019
+          }
+        ],
+        "total_energy": 1.92395,
+        "state_norm": 0.98019,
+        "state_file": "state_8.txt"
+      },
+      {
+        "step": 8,
+        "time": 0.8,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.958373,
+            "state_norm": 0.978966
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.91435,
+            "state_norm": 0.977742
+          }
+        ],
+        "total_energy": 1.91435,
+        "state_norm": 0.977742,
+        "state_file": "state_9.txt"
+      },
+      {
+        "step": 9,
+        "time": 0.9,
+        "forward_sweep": [
+          {
+            "site": 0,
+            "energy": 0.953592,
+            "state_norm": 0.97652
+          }
+        ],
+        "backward_sweep": [
+          {
+            "site": 0,
+            "energy": 1.9048,
+            "state_norm": 0.9753
+          }
+        ],
+        "total_energy": 1.9048,
+        "state_norm": 0.9753,
+        "state_file": "state_10.txt"
+      }
+    ]
+  }
+}
